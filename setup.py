@@ -14,7 +14,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     keywords=' deep learning, machine learning, keras, tensorflow',
-    url="https://github.com/fastai/tf-fit",
+    url="https://github.com/happiness-ai/tf-fit",
     packages=setuptools.find_packages(),
     # install_requires=['tensorflow'],
     python_requires='==3.6.*',
